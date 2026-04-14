@@ -1,16 +1,31 @@
-## Hi there 👋
+<div align="center">
+  <h1>✨ I'm Liri</h1>
+  <p><b>Creative Coder | Material Design Enthusiast | UI Architect</b></p>
+  
+  <p><i>Turning logic into fluid, visual experiences.</i></p>
+</div>
 
-<!--
-**liriani/liriani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🎨 The Intersection of Art & Code
+I don't just build software; I craft digital environments. My work is inspired by the concept of **Liri** (Freedom)—creating interfaces that feel natural, light, and aesthetically precise.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌈 **Currently Exploring:** Generative art, fluid animations, and the boundaries of **Material Design**.
+- 🛠️ **Building:** The [Liri Design](https://liri.design) ecosystem.
+- 🗣️ **Languages:** Developing my voice in **English, Portuguese, and Spanish**.
+
+### 🧪 Creative Lab
+| Tech | Role in my Work |
+| :--- | :--- |
+| **Qt / QML** | Creating high-performance, beautiful UI layers. |
+| **C++** | The engine behind the visuals. |
+| **GLSL / Shaders** | Adding the "magic" and light effects. |
+| **Figma** | Where the visual journey begins. |
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=vivid&hide_border=true" alt="Liri's Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR-USERNAME]&theme=vivid&hide_border=true" alt="Streak" />
+</div>
