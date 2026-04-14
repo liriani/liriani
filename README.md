@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <h1>✨ I'm Liri</h1>
   <p><b>Creative Coder | Material Design Enthusiast | UI Architect</b></p>
   
@@ -25,7 +25,7 @@ I don't just build software; I craft digital environments. My work is inspired b
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=vivid&hide_border=true" alt="Liri's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=liriani&show_icons=true&theme=vivid&hide_border=true" alt="Liri's Stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=liriani&theme=vivid&hide_border=true" alt="Streak" />
 </div>
