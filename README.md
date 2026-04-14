@@ -24,8 +24,6 @@ I don't just build software; I craft digital environments. My work is inspired b
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=liriani&show_icons=true&theme=vivid&hide_border=true" alt="Liri's Stats" />
-  <br/>
+<div align="right">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=liriani&theme=vivid&hide_border=true" alt="Streak" />
 </div>
